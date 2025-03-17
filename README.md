@@ -3,10 +3,11 @@
 
 #### Skills & Experience
 - Embedded Systems: C++, C, Assembly
-- Full-Stack Development:
+- Low-Level Programming: Experience with C and Assembly
+##### Full-Stack Development:
 - Frontend: React, TypeScript
 - Backend: C# (.NET and Docker)
-- Low-Level Programming: Experience with C and Assembly
+
 
 #### Organizations for group work 
 - [[4. Semester]](https://github.com/4-semester-MCJ)
