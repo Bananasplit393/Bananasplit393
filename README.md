@@ -10,8 +10,8 @@
 
 
 #### Organizations for group work 
-- [[4. Semester]](https://github.com/4-semester-MCJ)
-- [[3. Semester]](https://github.com/3-semester-MCJ)
+- [4. Semester](https://github.com/4-semester-MCJ)
+- [3. Semester](https://github.com/3-semester-MCJ)
 
 ### Notable Projects
 #### AutoMAGIC (6 people)
@@ -27,7 +27,7 @@
 
 
 ### Get in Touch
-- LinkedIn: [[Christopher Dolan]](https://www.linkedin.com/in/christopher-dolan-ab2539243/)
-- GitHub: [[Bananasplit393]](https://github.com/Bananasplit393)
+- LinkedIn: [Christopher Dolan](https://www.linkedin.com/in/christopher-dolan-ab2539243/)
+- GitHub: [Bananasplit393](https://github.com/Bananasplit393)
 - Email: cchristopherdolan@gmail.com
 
