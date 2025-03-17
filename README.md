@@ -1,16 +1,32 @@
-## Hi there 👋
+### Christopher Dolan
+#### Software Engineering Student | Embedded Systems | Full-Stack Development
 
-<!--
-**Bananasplit393/Bananasplit393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Skills & Experience
+Embedded Systems: C++, C, Assembly
+Full-Stack Development:
+Frontend: React, TypeScript
+Backend: C# (.NET and Docker)
+Low-Level Programming: Experience with C and Assembly
 
-Here are some ideas to get you started:
+#### Organizations for group work 
+- [[4. Semester]](https://github.com/4-semester-MCJ)
+- [[3. Semester]](https://github.com/3-semester-MCJ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Notable Projects
+#### AutoMAGIC (6 people)
+- https://github.com/AutoMAGIC-Drinks-Dispenser
+- Developed embedded modules with C++
+- Frontend in React Typescript
+#### AES-Insight (In Progress 9 people)
+- https://github.com/AESInsight
+- Backend: C# (.NET)
+- Frontend: React (TypeScript)
+
+
+
+
+### Get in Touch
+- LinkedIn: [[Christopher Dolan]](https://www.linkedin.com/in/christopher-dolan-ab2539243/)
+- GitHub: [[Bananasplit393]](https://github.com/Bananasplit393)
+- Email: cchristopherdolan@gmail.com
+
